@@ -69,8 +69,7 @@ task-management-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/task-management-app.git
-   cd task-management-app
+   git clone https://github.com/mojtaba71/task-management.git
    ```
 
 2. **Install dependencies**
@@ -82,7 +81,7 @@ task-management-app/
    ```bash
    npm run dev
    ```
-   The app will be available at `http://localhost:5173`
+   The app will be available at `http://localhost:5174`
 
 4. **Build for production**
    ```bash
@@ -180,10 +179,10 @@ Click the sun/moon icon in the header to toggle between light and dark themes. Y
 ## Screenshots
 
 ### Light Mode
-![Light Mode](./screenshots/light-mode.png)
+![Light Mode]
 
 ### Dark Mode
-![Dark Mode](./screenshots/dark-mode.png)
+![Dark Mode]
 
 ## License
 

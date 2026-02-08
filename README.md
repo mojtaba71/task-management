@@ -2,9 +2,6 @@
 
 A modern, feature-rich task management application built with React, TypeScript, and Vite. This project demonstrates clean code practices, efficient algorithms, and a professional UI/UX design.
 
-## Live Demo
-
-[View Live Demo](#) _(Add your GitHub Pages or Vercel deployment link here)_
 
 ## Features
 
